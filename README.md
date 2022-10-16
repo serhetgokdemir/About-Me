@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @serhetgokdemir
 - 👀 I’m interested in Data Science and Applied Mathematics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => @serhet in Instagram
 
