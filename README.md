@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Serhet Gokdemir
-- 👀 I’m interested in Data Science Applied Mathematics and Programming
+- 👀 I’m interested in Data Science, Applied Mathematics and Programming
 - 🌱 I’m currently learning C
 - 📫 How to reach me => You can send me a message in Instagram by my account @serhet
 
