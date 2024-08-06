@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Serhet Gokdemir
 - 👀 I’m interested in Data Science, Applied Mathematics and Software Engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me:
  * Instagram: @serhet
  * LinkedIn: https://www.linkedin.com/in/serhet-gökdemir-83663a180/
