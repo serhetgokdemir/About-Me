@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Applied Mathematics and Programming
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:
--   * Instagram: @serhet
+    * Instagram: @serhet
     * LinkedIn: https://www.linkedin.com/in/serhet-gökdemir-83663a180/
     * HackerRank: https://www.hackerrank.com/profile/apocalptica38
     * Twitter: @_lonelyshepherd
